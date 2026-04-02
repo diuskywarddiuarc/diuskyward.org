@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    "**/.next": true
+  },
+  "search.exclude": {
+    "**/.next": true
+  },
+  "files.watcherExclude": {
+    "**/.next/**": true
+  },
+
+  // Disable VS Code's built-in CSS validator — it doesn't understand
+  // Tailwind v4 directives (@theme, @import "tailwindcss", @layer, etc.)
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+
+  // Tailwind CSS IntelliSense: treat globals.css as a Tailwind file
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  // Tell Tailwind IntelliSense where the config root is
+  "tailwindCSS.experimental.configFile": null
+}

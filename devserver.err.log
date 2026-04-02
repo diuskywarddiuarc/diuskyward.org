@@ -1,0 +1,158 @@
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\Lenovo\package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\Lenovo\Downloads\DIU Skyward test\diuskyward-main\package-lock.json
+
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Image with src "/media/images/team/md-asif-hasan-ovi.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrafee-faruqee.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/ibnul-jubaer.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/swassa.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/jihad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/morshad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masnoon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sakib-ali-mazumdar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrufa-tasnim-esha.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-farjana-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/md-mozammelul-haque.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-imran-mahmud.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-fazla-elahe.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/nahiyan-al-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sheikh-mohammad-allayar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Image with src "/media/images/team/md-asif-hasan-ovi.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/ibnul-jubaer.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrafee-faruqee.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/swassa.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masnoon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/jihad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/morshad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/sabbir.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/apu-sarker.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/redowan.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/cansat-prototype.png received null
+⚠ Blocked cross-origin request to Next.js dev resource /_next/webpack-hmr from "ties-timer-sue-nashville.trycloudflare.com".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['ties-timer-sue-nashville.trycloudflare.com'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/niaz-morshed.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/tanvir-ahmed.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/afsana-mimi.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/sifat-sultana.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/md-mozammelul-haque.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sakib-ali-mazumdar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-farjana-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrufa-tasnim-esha.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-imran-mahmud.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-fazla-elahe.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/nahiyan-al-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sheikh-mohammad-allayar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/masrafee-faruqee.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/md-asif-hasan-ovi.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/ibnul-jubaer.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/md-mozammelul-haque.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-farjana-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/jihad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sakib-ali-mazumdar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/morshad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrufa-tasnim-esha.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/swassa.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-imran-mahmud.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masnoon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-fazla-elahe.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/nahiyan-al-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sheikh-mohammad-allayar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/md-mozammelul-haque.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sakib-ali-mazumdar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrufa-tasnim-esha.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-farjana-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-imran-mahmud.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrafee-faruqee.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/md-asif-hasan-ovi.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/ibnul-jubaer.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/dr-fazla-elahe.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/nahiyan-al-rahman.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sheikh-mohammad-allayar.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/swassa.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masnoon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/jihad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/morshad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Image with src "/media/images/team/md-asif-hasan-ovi.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masrafee-faruqee.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/ibnul-jubaer.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/swassa.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/masnoon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/jihad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/morshad.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/apu-sarker.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[browser] Image with src "/media/images/team/sabbir.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/team/apurba-roy.jpg received null
+[browser] Image with src "/media/images/team/redowan.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+⨯ The requested resource isn't a valid image for /media/images/rocket-launch.png received null
+^C^C
