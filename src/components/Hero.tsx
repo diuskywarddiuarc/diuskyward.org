@@ -83,20 +83,30 @@ export default function Hero() {
     }, []);
 
     return (
-        <div className="relative h-screen w-full overflow-hidden flex flex-col items-center justify-center">
+        <div className="relative min-h-[60vh] sm:min-h-[70vh] md:h-screen w-full overflow-hidden flex flex-col items-center justify-center">
 
-            {/* Background Video */}
-            <div className="absolute inset-0 w-full h-full bg-rl-black">
+            {/* Background Video - Responsive Container */}
+            <div className="absolute inset-0 w-full h-full bg-rl-black overflow-hidden">
                 <div className="absolute inset-0 bg-rl-black/40 z-10" /> {/* Dark Overlay for text legibility */}
-                <video
-                    ref={videoRef}
-                    autoPlay
-                    loop
-                    muted
-                    playsInline
-                    className="object-cover w-full h-full opacity-70"
-                    src="/media/videos/hero-rocket.mp4"
-                />
+                <div className="absolute inset-0 flex items-center justify-center">
+                    <video
+                        ref={videoRef}
+                        autoPlay
+                        loop
+                        muted
+                        playsInline
+                        className="min-w-full min-h-full w-auto h-auto object-cover opacity-70"
+                        style={{ 
+                            position: 'absolute',
+                            top: '50%',
+                            left: '50%',
+                            transform: 'translate(-50%, -50%)',
+                            minWidth: '100%',
+                            minHeight: '100%'
+                        }}
+                        src="/media/videos/hero-rocket.mp4"
+                    />
+                </div>
             </div>
 
             {/* Content Container */}

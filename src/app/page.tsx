@@ -149,15 +149,18 @@ export default function Home() {
       </div>
       <div className="w-full h-[1px] bg-rl-white/10" />
 
-      {/* Our Story Visual - Robust Sizing */}
-      <section className="relative w-full h-screen overflow-hidden group">
-        <div className="absolute inset-0 w-full h-full bg-rl-black pointer-events-none">
-          <iframe
-            className="w-[115vw] h-[64.68vw] min-h-[115vh] min-w-[204.44vh] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-60"
-            src="https://www.youtube.com/embed/Z46vN_E5Mlo?autoplay=1&mute=1&loop=1&playlist=Z46vN_E5Mlo&controls=0&showinfo=0&rel=0&modestbranding=1&iv_load_policy=3"
-            allow="autoplay; encrypted-media"
-            allowFullScreen
-          />
+      {/* Our Story Visual - Better Mobile Responsive */}
+      <section className="relative w-full h-[300px] sm:h-[400px] md:h-[500px] lg:h-[600px] xl:h-[80vh] overflow-hidden group">
+        <div className="absolute inset-0 w-full h-full bg-rl-black overflow-hidden">
+          <div className="relative w-full h-full">
+            <iframe
+              className="absolute inset-0 w-full h-full opacity-60"
+              src="https://www.youtube.com/embed/Z46vN_E5Mlo?autoplay=1&mute=1&loop=1&playlist=Z46vN_E5Mlo&controls=0&showinfo=0&rel=0&modestbranding=1&iv_load_policy=3"
+              allow="autoplay; encrypted-media"
+              allowFullScreen
+              style={{ objectFit: 'cover' }}
+            />
+          </div>
         </div>
         
         {/* Custom Play Button Overlay */}
@@ -186,14 +189,15 @@ export default function Home() {
       </div>
       <div className="w-full h-[1px] bg-rl-white/10" />
 
-      {/* Team Visual - Immersive Full-Screen */}
-      <section className="relative w-full h-screen overflow-hidden">
+      {/* Team Visual - Better Mobile Responsive */}
+      <section className="relative w-full h-[300px] sm:h-[400px] md:h-[500px] lg:h-[600px] xl:h-[80vh] overflow-hidden">
         <div className="absolute inset-0 w-full h-full bg-rl-dark-grey">
-          <div
-            className="absolute inset-0 bg-cover bg-center bg-fixed grayscale hover:grayscale-0 transition-all duration-1000"
-            style={{ 
-              backgroundImage: `url('/media/images/team-group.jpg')`
-            }}
+          <Image
+            src="/media/images/team-group.jpg"
+            alt="DIU Skyward Team"
+            fill
+            className="object-cover grayscale hover:grayscale-0 active:grayscale-0 transition-all duration-1000"
+            priority
           />
           <div className="absolute inset-0 bg-rl-black/30 pointer-events-none" />
         </div>
